@@ -1,1 +1,1 @@
-web: build/install/play-scala-starter-example/bin/play-scala-starter-example
+web: target/universal/stage/bin/play-scala-starter-example -Dhttp.port=${PORT}
